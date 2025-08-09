@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maksim Mikhaylov
 - 👀 I’m interested in in backend development, Golang
-- 🌱 I’m currently in my 2nd year at the university
+- 🌱 I’m currently in my 3nd year at the university
 
 <!---
 MikhaylovMaks/MikhaylovMaks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
