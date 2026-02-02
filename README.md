@@ -1,9 +1,5 @@
-  ###  Hey there, I'm Maksim!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
-  ![](https://komarev.com/ghpvc/?username=sciencepal&label=Profile%20Visits&color=blue&style=for-the-badge)
-  
-<img src="https://github.com/MaksimMikhaylo/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
-<a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
-  
+  ###  Hey there, I'm Maksim!
+
   - 🎓 Я учусь на 3 курсе по направлению "Прикладная математика и информатика" в КНИТУ-КАИ.
   - 💻 Сейчас я активно развиваюсь как backend-разработчик на Go.
   - 🌱 Параллельно углубляю знания в алгоритмах, архитектуре ПО и базах данных.
