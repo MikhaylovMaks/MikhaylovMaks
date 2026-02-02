@@ -7,5 +7,5 @@
   #### 📫  Как со мной связаться::
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="3.5%"/>](https://t.me/MaksimMikhaylo) &nbsp;
-<a href="mailto:maksskamm19@bk.ru"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a> &nbsp;
+[<img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>]((mailto:maksskamm19@bk.ru)) &nbsp;
 [<img src="https://img.icons8.com/color/48/000000/github--v1.png" width="3.5%"/>](https://github.com/MikhaylovMaks)
