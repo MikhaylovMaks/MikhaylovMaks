@@ -4,8 +4,7 @@
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
   
   - 🎓 Я учусь на 3 курсе по направлению "Прикладная математика и информатика" в КНИТУ-КАИ.
-  - 💻 Сейчас я активно развиваюсь как backend-разработчик на Go.
-  - 🌱 Параллельно углубляю знания в алгоритмах, архитектуре ПО и базах данных.
+  - 💻 Backend-разработчик на Go.
   
   #### 📫  Как со мной связаться::
 
